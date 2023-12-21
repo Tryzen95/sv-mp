@@ -6,7 +6,8 @@ SV:MP A Brand New GTA:V Multiplayer Client. The project is still in development 
 Make SV:MP with ❤️ for The Big Quality Roleplay Lovers
 
 # Links
-- [Second:V](https://sv-mp.de/) (Works Soon)
+- [SV:MP Homepage](https://sv-mp.de/) (Works Soon)
+- [SV:MP Discord](https://discord.gg/FvpvjB3sxG) 
 - [Tryzen95](https://twitch.tv/tryzen95/)
                                                 
 ### 📋 Supportet Languages
